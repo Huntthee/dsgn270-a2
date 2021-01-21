@@ -12,3 +12,8 @@ Over the course of the next few months **I intend to**:
 It was difficult to come up with some idea of what to do for my project site, but I believe this will be a good way for me to practice, and record such progress at the same time.
 
 For now everything is very basic.
+
+---
+
+**Image Sources**: 
+- [Lorem Picsum](https://picsum.photos/)

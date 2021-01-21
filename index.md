@@ -7,6 +7,8 @@
 ## The Beginning
 The purpose of this blog will be to document and share my progress as I learn to code and develop websites! As I go forward I will post about the various projects and work I complete, as well as link to the github repositories I create.
 
+![computer and notes](https://i.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8)
+
 So far I have been teaching myself HTML, CSS and JavaScript in the run up to the Web Development course at SAIT, and now beginning to code in the course itself.
 
 This first post will contain links to the projects I worked on previous to school, as well as some of the simpler introductory assignments we have done already.
