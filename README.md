@@ -17,3 +17,6 @@ For now everything is very basic.
 
 **Image Sources**: 
 - [Lorem Picsum](https://picsum.photos/)
+
+**Icons**
+- made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)

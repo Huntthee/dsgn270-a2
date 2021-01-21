@@ -3,6 +3,10 @@
 *by Mike Allison*
 
 ---
+[]()
+[]()
+[]()
+---
 
 ## The Beginning
 The purpose of this blog will be to document and share my progress as I learn to code and develop websites! As I go forward I will post about the various projects and work I complete, as well as link to the github repositories I create.
@@ -27,3 +31,5 @@ This first post will contain links to the projects I worked on previous to schoo
 Though some of these are fairly simple, they represent what I've been doing, and am capable of as I begin classes. And I look forward to learning so much more during my time at SAIT.
 
 ---
+
+## Blog Post 2 Coming Soon!
