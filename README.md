@@ -1,4 +1,11 @@
-# A Little Personal Blog README
+# SAIT WBDV CPNT270-A2 BLOG README
+
+This Repo is owned and maintained by Mike Allison
+
+## Attributions
+- Original Author - Mike Allison
+- [Original Works](https://github.com/Huntthee/cpnt270-a2/blob/main/index.md) by Mike Allison
+- [MIT License](https://opensource.org/licenses/MIT)
 
 This website will be developed as I learn more in classes and apply my knowledge to the site. 
 
