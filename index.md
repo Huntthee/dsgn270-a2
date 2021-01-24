@@ -55,3 +55,10 @@ Perhaps a bit of time on [Free Code Camp](https://www.Freecodecamp.com) will hel
 
 **Codepen**
 - [My Pens](https://codepen.io/huntthee) Worked on Font Pairing and some Navigation principles
+- [Edits to this page!](https://github.com/Huntthee/cpnt270-a2/blob/main/index.md)
+
+---
+
+## THE NEXT WEEK
+
+&copy; 2020 Mike Allison [MIT License](license.md)
