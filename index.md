@@ -59,6 +59,21 @@ Perhaps a bit of time on [Free Code Camp](https://www.Freecodecamp.com) will hel
 
 ---
 
-## THE NEXT WEEK
+
+## Flexbox Funtime!
+
+Monday kicked off with a more in-depth look at CSS Flexbox and the funky things it can do. With a little bit of practice on 'Flexbox Zombies' 'Flexbox Frog' and perhaps some more lessons on CodeCamp, I feel that mastering such a tool will allow for some really neat website layouts.
+
+With that in mind I anticipate learning some CSS Grid will pair very nicely with the abilities of Flexbox. Navigation menues are certainly easier having to only write a couple lines of code.
+
+My to-do list for this week isn't as daunting as last week's seemed to have been, but I will complete the assignments as I have been doing so far. Early and as complete as can be!
+
+I have noticed that the information I have gathered on my own from sources such as W3Schools indeed has been outdated, and that the SAIT course so far has been a great opportunity to fill in the blanks and catch up to the current methods and practices.
+
+**Monday's practice**
+- [Codepen](https://codepen.io/huntthee/pen/VwKJgRb) Played around with more nav ideas
+- [Codepen](https://codepen.io/huntthee/pen/LYRKqox) Attempted recreation of nav menu
+
+---
 
 &copy; 2021 Mike Allison [MIT License](license.md)
